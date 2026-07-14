@@ -1,0 +1,6 @@
+## BASIC VERILOG CODES
+### 1)*WIRE AND REG*
+### 2)*EQUATION IMPLEMENTATION USING ALL MODELLING STYLES*
+----------------------------------------------
+### AUTHOR
+#### ANNANGI MANOGNA
