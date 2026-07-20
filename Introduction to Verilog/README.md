@@ -16,10 +16,10 @@
 ## 1)For number system indication .....Binary-->b,Decimal-->d,Octal-->O,Hexa-Decimal-->h.
 ## 2)Variable declaration should be unique.
 ## 3)Verilog is case-sensitive.
-## 4)Sized declaration
+## 4)Unsized declaration
              variable=  'Number-System value
               eg:- a= 'hF;
-## 5)Unsized declaration 
+## 5)Sized declaration 
            variable =size ' number-system  value
            eg: a=8'hF;
 ## 6)Each line should end with ;
